@@ -1,6 +1,6 @@
 # Picture In Picture Mode
 
-### Application is live [here]('https://karan1907.github.io/picture-in-picture/')
+### Application is live [here](https://karan1907.github.io/picture-in-picture/)
 
 This app let you capture your screen and play the video in picture in picture mode.
 
